@@ -7,3 +7,5 @@ Esse exercício me ajudou a entender melhor conceitos fundamentais como:
 Manipulação do DOM usando document.querySelector<br>
 Atualização dinâmica de elementos HTML com textContent<br>
 Uso de funções para separar responsabilidades no código
+
+https://eduardoadf-dev.github.io/Dev_sorteio/

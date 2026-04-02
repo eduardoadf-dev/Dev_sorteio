@@ -1,11 +1,69 @@
-Desenvolvi uma pequena aplicação em JavaScript que gera números aleatórios dentro de um intervalo definido pelo usuário e exibe o resultado diretamente na página.
+# 🎲 Dev Sorteio
 
-O destaque do projeto é a função #displayResult, que atualiza dinamicamente o conteúdo HTML para mostrar o número sorteado, tornando a interação mais intuitiva e visual.
+Aplicação web simples e responsiva para **sortear números aleatórios** dentro de um intervalo definido pelo usuário.
 
-Esse exercício me ajudou a entender melhor conceitos fundamentais como:
+---
 
-Manipulação do DOM usando document.querySelector<br>
-Atualização dinâmica de elementos HTML com textContent<br>
-Uso de funções para separar responsabilidades no código
+# 🚀 Demonstração
 
-https://eduardoadf-dev.github.io/Dev_sorteio/
+Link do projeto: https://eduardoadf-dev.github.io/Dev_sorteio/
+
+---
+
+## 📋 Sobre o projeto
+
+O **Dev Sorteio** permite que o usuário informe um valor mínimo e um valor máximo, e a aplicação gera um número aleatório dentro desse intervalo com apenas um clique.
+
+---
+
+## ✨ Funcionalidades
+
+- 🔢 Sorteio de números dentro de um intervalo personalizado
+- ✅ Validação de entrada (o número mínimo deve ser menor que o máximo)
+- 📱 Layout totalmente responsivo (adaptado para mobile)
+- ⚡ Resultado exibido instantaneamente na tela
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+| Tecnologia | Descrição |
+|------------|-----------|
+| HTML5 | Estrutura da página |
+| CSS3 | Estilização e responsividade |
+| JavaScript | Lógica do sorteio |
+| Google Fonts | Fonte Roboto |
+
+---
+
+## 📁 Estrutura do projeto
+
+```
+dev-sorteio/
+├── assets/
+│   └── Foto-DevSorteio.png
+├── index.html
+├── styles.css
+└── script.js
+```
+
+## 🎮 Como usar
+
+1. Digite o **número mínimo** no primeiro campo
+2. Digite o **número máximo** no segundo campo
+3. Clique em **"Sortear"**
+4. O número sorteado será exibido na tela
+
+> ⚠️ O valor mínimo deve ser **menor** que o valor máximo, caso contrário um aviso será exibido.
+
+---
+
+## 📱 Responsividade
+
+A aplicação é adaptada para telas menores que **500px**, garantindo uma boa experiência em dispositivos móveis.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.

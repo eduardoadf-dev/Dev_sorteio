@@ -61,9 +61,3 @@ dev-sorteio/
 ## 📱 Responsividade
 
 A aplicação é adaptada para telas menores que **500px**, garantindo uma boa experiência em dispositivos móveis.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.

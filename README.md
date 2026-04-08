@@ -4,7 +4,7 @@ Aplicação web simples e responsiva para **sortear números aleatórios** dentr
 
 ---
 
-# 🚀 Demonstração
+## 🚀 Demonstração
 
 Link do projeto: https://eduardoadf-dev.github.io/Dev_sorteio/
 

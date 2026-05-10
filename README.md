@@ -12,7 +12,7 @@ Link do projeto: https://eduardoadf-dev.github.io/Dev_sorteio/
 
 ## 📋 Sobre o projeto
 
-O **Dev Sorteio** permite que o usuário informe um valor mínimo e um valor máximo, e a aplicação gera um número aleatório dentro desse intervalo com apenas um clique.
+O **Dev Sorteio** permite que o usuário informe um valor mínimo e um valor máximo, e a aplicação gera um número aleatório dentro deste intervalo com apenas um clique.
 
 ---
 
